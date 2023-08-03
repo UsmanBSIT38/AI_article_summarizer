@@ -1,4 +1,5 @@
 # AI-based-article-summarizer
+### [Live Site](https://articlsummarizer.netlify.app/)
 <img width="957" alt="ss1" src="https://github.com/UsmanBSIT38/AI_article_summarizer/assets/114169745/f25f5cdf-9f1a-41c6-b54c-64775990ec03">
 <img width="958" alt="ss3" src="https://github.com/UsmanBSIT38/AI_article_summarizer/assets/114169745/ce183fc3-eb17-4317-a9b3-1b06c6c2991f">
 <img width="949" alt="ss4" src="https://github.com/UsmanBSIT38/AI_article_summarizer/assets/114169745/72ec8e4e-9897-4aec-87b1-f6f40a1e64a4">
